@@ -20,6 +20,7 @@
 
 
 .menuBtn {
+ 
   display: none;
 }
 
@@ -58,6 +59,7 @@
   .menuBtn {
     display: block;
     cursor: pointer;
+    margin-right: -60px;
   }
 
   .menuItems {

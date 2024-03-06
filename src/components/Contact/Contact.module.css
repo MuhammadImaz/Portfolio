@@ -50,6 +50,7 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    
   }
 
   .text {
@@ -60,5 +61,7 @@
 
   .links {
     align-items: center;
+   justify-content: center;
+  
   }
 }
