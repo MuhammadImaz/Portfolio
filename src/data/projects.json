@@ -1,0 +1,26 @@
+[
+  {
+    "title": "My-Ecommerce",
+    "imageSrc": "projects/project1.png",
+    "description": "An elegant and responsive e-commerce project built with React.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://muhammadimaz.github.io/My-Ecommerce/",
+    "source": "https://github.com/MuhammadImaz/My-Ecommerce"
+  },
+  {
+    "title": "Insta Clone",
+    "imageSrc": "projects/project2.jpeg",
+    "description": "A React-based Instagram clone built with styled components using Tailwind CSS.",
+    "skills": ["React", "Tailwind", "CSS", "Faker.js"],
+    "demo": "https://muhammadimaz.github.io/Insta-Clone/",
+    "source": "https://github.com/MuhammadImaz/Insta-Clone"
+  },
+  {
+    "title": "Comming soon",
+    "imageSrc": "projects/project.png",
+    "description": "Developing a Dashboard. This is a project made to learn Material UI framework.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Frontend Developer Intern",
+    "organisation": "Code Fire",
+    "startDate": "Feb, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on developing responsive Frontend",
+      "Provide Validation and authentication to forms"
+    ]
+  },
+  {
+    "role": "Backend Developer Intern",
+    "organisation": "Saufik",
+    "startDate": "July, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": [
+      "Focused on REST API Integration",
+      "Hands on experiance with socket.io and Redis"
+    ]
+  }
+]
