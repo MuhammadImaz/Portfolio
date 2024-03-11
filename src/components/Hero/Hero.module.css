@@ -19,6 +19,7 @@
   z-index: 1;
 }
 
+.titles,
 .title {
   font-size: 72px;
   font-weight: 900;
@@ -107,5 +108,13 @@
 
   .content {
     align-items: center;
+  }
+  .titles {
+    visibility: hidden;
+  }
+  .title {
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 23px;
   }
 }
