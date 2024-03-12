@@ -16,11 +16,11 @@
     "source": "https://github.com/MuhammadImaz/Insta-Clone"
   },
   {
-    "title": "Comming soon",
-    "imageSrc": "projects/project.png",
-    "description": "Developing a Dashboard. This is a project made to learn Material UI framework.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "My Dashboard",
+    "imageSrc": "projects/project3.png",
+    "description": "Developed a Dashboard. This is a project helped me learn Material UI framework.",
+    "skills": ["React", "Material UI"],
+    "demo": "https://muhammadimaz.github.io/dashboard/",
+    "source": "https://github.com/MuhammadImaz/dashboard"
   }
 ]
