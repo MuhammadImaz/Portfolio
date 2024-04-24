@@ -9,7 +9,7 @@
   },
   {
     "title": "Insta Clone",
-    "imageSrc": "projects/project2.jpeg",
+    "imageSrc": "projects/project2.png",
     "description": "A React-based Instagram clone built with styled components using Tailwind CSS.",
     "skills": ["React", "Tailwind", "CSS", "Faker.js"],
     "demo": "https://muhammadimaz.github.io/Insta-Clone/",
@@ -22,5 +22,13 @@
     "skills": ["React", "Material UI"],
     "demo": "https://muhammadimaz.github.io/dashboard/",
     "source": "https://github.com/MuhammadImaz/dashboard"
+  },
+  {
+    "title": "Car Rentals",
+    "imageSrc": "projects/project4.png",
+    "description": "Developed a user-friendly rent-a-car platform, crafted with React and styled with CSS.",
+    "skills": ["React", "CSS"],
+    "demo": "https://muhammadimaz.github.io/Rental-Clone/",
+    "source": "https://github.com/MuhammadImaz/Rental-Clone" 
   }
 ]

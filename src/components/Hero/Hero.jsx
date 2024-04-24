@@ -8,7 +8,7 @@ export const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.titles}>Hi, My name is </h1>
-        <h2 className={styles.title}> Muhmmad Imaz</h2>
+        <h2 className={styles.title}> Muhammad Imaz</h2>
         <p className={styles.description}>
           I am an enthusiast web developer with expertise in React and
           NodeJS. 

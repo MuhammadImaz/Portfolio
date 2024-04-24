@@ -32,6 +32,7 @@
   );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  background-clip: text; /* Define standard property */
 }
 
 .description {
@@ -100,7 +101,7 @@
   filter: blur(100px);
   z-index: 0;
 }
-
+/*
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
@@ -116,5 +117,43 @@
     font-size: 42px;
     font-weight: 700;
     margin-bottom: 23px;
+  }
+}
+**/
+
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    align-items: center; /* Center content vertically */
+    text-align: center; /* Center text horizontally */
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .titles,
+  .title {
+    font-size: 42px;
+    font-weight: 700;
+    margin-bottom: 23px;
+    background: none; /* Remove background gradient */
+    -webkit-text-fill-color: initial; /* Restore text color */
+    -webkit-background-clip: initial; /* Restore background clip */
+    background-clip: initial; /* Define standard property */
+  }
+
+  .description {
+    font-size: 24px; /* Adjust font size for description */
+    margin-bottom: 30px; /* Adjust margin */
+  }
+
+  .heroImg {
+    width: 80%; /* Adjust image width */
+    margin-top: 20px; /* Add margin to the top */
+  }
+
+  .topBlur,
+  .bottomBlur {
+    display: none; /* Hide the blur elements on smaller screens */
   }
 }
